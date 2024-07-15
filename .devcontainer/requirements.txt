@@ -1,8 +1,8 @@
+tensorflow[and-cuda]
+autokeras
+ipykernel
 numpy
 scikit-learn
 matplotlib
 pandas
 seaborn
-tensorflow[and-cuda]==2.15.0
-autokeras
-ipykernel
